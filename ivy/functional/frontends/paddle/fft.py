@@ -5,6 +5,8 @@ from ivy.functional.frontends.paddle.func_wrapper import (
 )
 import paddle
 
+
+
 # Import the sigmoid function from Paddle
 sigmoid = paddle.nn.functional.sigmoid
 
